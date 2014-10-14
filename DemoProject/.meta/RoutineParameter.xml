@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="RoutineParameter">
+	<section name="PROCEDURE1">
+		<section name="PROCEDURE1_VARCHAR_DOUBLE">
+			<item value="false" key="RunOptions.RunOptions.CollectActuals"/>
+			<item value="&lt;![CDATA[]]&gt;" key="RunOptions.RunRoutineConfiguration.BeforeRunScript"/>
+			<item value="true" key="RunOptions.RunOptions.CommitChanges"/>
+			<item value="false" key="RunOptions.RunOptions.GatherTraceInformation"/>
+			<item value=";" key="RunOptions.RunRoutineConfiguration.BeforeRunStmtTerminator"/>
+			<item value="&lt;![CDATA[]]&gt;" key="RunOptions.RunRoutineConfiguration.AfterRunScript"/>
+			<item value=";" key="RunOptions.RunRoutineConfiguration.AfterRunStmtTerminator"/>
+			<item value="false" key="RunOptions.RunOptions.GatherPerformanceInformation"/>
+			<list key="INCREASE">
+				<item value="DOUBLE"/>
+				<item value="0.1"/>
+				<item value="false"/>
+			</list>
+			<list key="EMPLOYEENO">
+				<item value="VARCHAR"/>
+				<item value="000010"/>
+				<item value="false"/>
+			</list>
+		</section>
+	</section>
+	<section name="PROCEDURE_NEW_1">
+		<section name="PROCEDURE_NEW_1">
+			<item value="false" key="RunOptions.RunOptions.CollectActuals"/>
+			<item value="&lt;![CDATA[]]&gt;" key="RunOptions.RunRoutineConfiguration.BeforeRunScript"/>
+			<item value="true" key="RunOptions.RunOptions.CommitChanges"/>
+			<item value="false" key="RunOptions.RunOptions.GatherTraceInformation"/>
+			<item value=";" key="RunOptions.RunRoutineConfiguration.BeforeRunStmtTerminator"/>
+			<item value=";" key="RunOptions.RunRoutineConfiguration.AfterRunStmtTerminator"/>
+			<item value="&lt;![CDATA[]]&gt;" key="RunOptions.RunRoutineConfiguration.AfterRunScript"/>
+			<item value="false" key="RunOptions.RunOptions.GatherPerformanceInformation"/>
+		</section>
+	</section>
+</section>
