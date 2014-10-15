@@ -6,6 +6,6 @@ P1: BEGIN
 	
 	SELECT EMPNO, SALARY + BONUS AS INCOME FROM EMPLOYEE; 
 
-	-- Cursor left open for client application
+	
 	OPEN cursor1;
 END P1
