@@ -10,7 +10,7 @@ P1: BEGIN
 	-- # The example SQL statement SELECT NAME FROM SYSIBM.SYSTABLES
 	-- # returns all names from SYSIBM.SYSTABLES.
 	-- ######################################################################
-	SELECT EMPNO, SALARY + BONUS AS INCOME FROM EMPLOYEE;
+	SELECT EMPNO, SALARY + BONUS AS INCOME FROM EMPLOYEE; 
 
 	-- Cursor left open for client application
 	OPEN cursor1;
